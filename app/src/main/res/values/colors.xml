@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Naranja">#FF5722</color> <!-- Naranja -->
+    <color name="Azul">#03A9F4</color> <!-- Azul -->
+    <color name="Amarillo">#FFC107</color> <!-- Amarillo -->
+    <color name="Blanco">#FFFFFF</color> <!-- Blanco -->
+    <color name="Negro">#212121</color> <!-- Negro -->
+
+    <color name="Gris_Azulado">#607D8B</color> <!-- Gris Azulado -->
+    <color name="Verde">#4CAF50</color> <!-- Verde -->
+    <color name="Gris_Claro">#F5F5F5</color> <!-- Gris Claro -->
+    <color name="Gris_Oscuro">#333333</color> <!-- Gris Oscuro -->
+
+    <color name="Rosa">#FF4081</color> <!-- Rosa -->
+    <color name="Verde_Azulado">#009688</color> <!-- Verde Azulado -->
+
+    <color name="Rojo_Anaranjado">#FF5722</color> <!-- Rojo Anaranjado -->
+    <color name="Rosa_Claro">#FBE9E7</color> <!-- Rosa Claro -->
+    <color name="Púrpura">#9C27B0</color> <!-- Púrpura -->
+
+    <color name="Rojo">#FF6F61</color> <!-- Rojo -->
+    <color name="Amarillo_Vivo">#FFD600</color> <!-- Amarillo Vivo -->
+    <color name="Verde_Menta">#03DAC5</color> <!-- Verde Menta -->
+    <color name="Marrón_Grisáceo">#8D6E63</color> <!-- Marrón Grisáceo -->
+
+    <color name="Rojo_Claro">#FF5252</color> <!-- Rojo Claro -->
+    <color name="Marrón">#795548</color> <!-- Marrón -->
+    <color name="Naranja_Vivo">#FFAB40</color> <!-- Naranja Vivo -->
+    <color name="Cian_Claro">#00E5FF</color> <!-- Cian Claro -->
+
+    <color name="Rojo_Oscuro">#D50000</color> <!-- Rojo Oscuro -->
+    <color name="Verde_Brillante">#00C853</color> <!-- Verde Brillante -->
+    <color name="Naranja_Claro">#FF6E40</color> <!-- Naranja Claro -->
+    <color name="Azul_Brillante">#2979FF</color> <!-- Azul Brillante -->
+
+    <color name="color36">#FF3D00</color> <!-- Rojo Vivo -->
+    <color name="Morado">#5A45FF</color> <!-- Morado -->
+    <color name="Lima">#AEEA00</color> <!-- Lima -->
+    <color name="Naranja_Oscuro">#FF5800</color> <!-- Naranja Oscuro -->
+    <color name="Morado_Oscuro">#7B1FA2</color> <!-- Morado Oscuro -->
+
+
+</resources>
